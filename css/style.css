@@ -186,6 +186,14 @@ nav li:hover .sub-menu{
 /*****
 Intro section
 *********/
+.intro-section{
+    height:60vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
 .intro-section h3,
 .intro-section p{
     color:var(--white);
